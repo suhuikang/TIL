@@ -31,13 +31,13 @@ print('hello')
 
 - [구글](https://google.com)
 
-- [파이썬](./python.py) 
+- [파이썬 파일](./python.py) 
 
     - `.` : 현재 디렉토리(폴더) 
 
 ## 이미지
 
-![이미지](./%EA%B0%95%EC%88%98%ED%9D%AC%E3%80%80%EC%82%AC%EC%A7%84.jpg)
+![이미지](./hindung.jpg)
 
 ## 표
 
