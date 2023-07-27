@@ -10,8 +10,6 @@ ML/DL, Data engineering을 공부하고 있습니다.
 
 
 - [Study](#study)
-    - [python]()
-    - [git]()
 - [Contact](#contact)
 
 
@@ -20,13 +18,20 @@ ML/DL, Data engineering을 공부하고 있습니다.
 ### Study
 ---
 
-**python**
+
+**DL**
+
+**ML**
 
 
+**pandas/numpy**
+- numpy_basic_230727
 
 **git** 
+- git구조_버전관리_230727
 
-[git구조, commit과 push]()
+**Markdown**
+- basic_230726
 
 
 
