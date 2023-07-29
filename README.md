@@ -6,7 +6,6 @@ ML/DL, Data engineering을 공부하고 있습니다.
 
 
 ## Categori
----
 
 
 - [Study](#study)
@@ -22,6 +21,7 @@ ML/DL, Data engineering을 공부하고 있습니다.
 **DL**
 
 **ML**
+- 회귀모델과_평가지표_230729
 
 
 **pandas/numpy**
