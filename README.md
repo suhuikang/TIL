@@ -19,16 +19,17 @@ ML/DL, Data engineering을 공부하고 있습니다.
 
 
 **DL**
+- 자연어처리 EDA 4가지_230730
 
 **ML**
-- 회귀모델과_평가지표_230729
+- 회귀모델과 평가지표_230729
 
 
 **pandas/numpy**
-- numpy_basic_230727
+- numpy basic_230727
 
 **git** 
-- git구조_버전관리_230727
+- git구조, 버전관리_230727
 
 **Markdown**
 - basic_230726
